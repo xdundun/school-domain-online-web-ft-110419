@@ -1,5 +1,5 @@
 class School
-  attr_attributes :school
+  #attr_attributes :school
 
   @roster = {}
   def initialize(school)
