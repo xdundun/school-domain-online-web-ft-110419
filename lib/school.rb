@@ -1,7 +1,8 @@
 class School
   #attr_attributes :school
 
-  @roster = {}
+  roster = {}
+
   def initialize(school)
     @school = school
 
